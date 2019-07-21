@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> bcb1980d6506a564a1bc2764ad856086e9a0bec8
 var scores, roundScore, activePlayer, gamePlaying;
 
 init();

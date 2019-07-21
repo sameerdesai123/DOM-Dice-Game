@@ -95,4 +95,14 @@ function init() {
     document.querySelector('.player-0-panel').classList.remove('active');
     document.querySelector('.player-1-panel').classList.remove('active');
     document.querySelector('.player-0-panel').classList.add('active');
+<<<<<<< HEAD
 }
+=======
+}
+
+
+
+
+
+
+>>>>>>> bcb1980d6506a564a1bc2764ad856086e9a0bec8
